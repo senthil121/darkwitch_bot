@@ -10,7 +10,7 @@ simple to use.
 Can be found on telegram as [Darkwitch bot](https://t.me/darkwitch_bot). 
 
 
-Join the [news channel](https://t.me/miui10themes) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/DarkMages_updates) if you just want to stay in the loop about new features or
 announcements.
 
 Alternatively, [find me on telegram](https://t.me/iamsenthil)!.

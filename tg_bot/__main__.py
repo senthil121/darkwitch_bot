@@ -22,13 +22,13 @@ PM_START_TEXT = """
 Hi {}, my name is {}! If you have any questions on how to use me, read /help .
 
 I'm a group manager bot maintained by [This Guy](tg://user?id={}). 
-and am fully Open-source you can find me [here](github.com/vraj90523/saraak_bot)!
+and am fully Open-source you can find me [here](github.com/senthil121/Darkwitch_bot)!
 
 You can find the list of available commands with /help.
 
 If you're enjoying using me, and/or would like to help me survive in the wild, hit /donate to help fund/upgrade my VPS!
 
-[Click here to add me in your groups](https://telegram.me/Technobuzznet_bot?startgroup=add)
+[Click here to add me in your groups](https://telegram.me/DarkWitch_bot?startgroup=add)
 """
 
 
@@ -54,8 +54,8 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-If you want to donate, PM [Vikash](t.me/vikash_raj), and give him a paytm lifafa \
-or pay [here](https://p-y.tm/Tw2N-Kb),
+If you want to donate, PM [Senthil](t.me/iamsenthil), and give him a paytm lifafa \
+or pay [here](https://www.paypal.me/senthil8754),
 If you really want to donate, it could really help me to upgrade my VPS."""
 
 IMPORTED = {}
